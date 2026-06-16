@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+This system makes student-generated knowledge about surviving freshman year at NJIT searchable and answerable. It covers practical topics like registration, parking, food, disability accommodations, orientation, and whether NJIT is worth the cost. This is the kind of advice upperclassmen share informally but new students struggle to find in one place. Official NJIT resources rarely capture this ground-level perspective, leaving incoming freshmen to dig through Reddit threads and word-of-mouth to get real answers.
+
 ---
 
 ## Documents
