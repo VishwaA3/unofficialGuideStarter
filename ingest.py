@@ -19,7 +19,7 @@ def chunk_text(text, chunk_size=500, overlap=100):
         start += chunk_size - overlap
     return chunks
 
-def build_chunks(documents):
+def build_chunks(documents): 
     all_chunks = []
     for doc in documents:
         chunks = chunk_text(doc["text"])
