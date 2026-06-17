@@ -109,7 +109,7 @@ If I was deploying this project for real users and cost wasn't a constraint, the
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
-![Pipeline Diagram](mermaidDiagram.png)
+![Pipeline Diagram](images/mermaidDiagram.png)
 ---
 
 ## AI Tool Plan
