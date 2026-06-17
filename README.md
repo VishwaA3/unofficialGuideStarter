@@ -52,7 +52,7 @@ This system makes student-generated knowledge about surviving freshman year at N
 
 **Overlap:** 100 characters
 
-**Why these choices fit your documents:** My documents include short student tips, Q&A, and longer guides from students on r/NJTech. A 500 character chunk is big enough to include the entire piece of advice or tip, without merging unrelated topics together. Chunks smaller than 500 characters hold the risk of cutting the advice mid-sentence, and this would serve no use. Chunks largers than 500 characters would combine multiple topics into one piece, whether they are related or not. This would make it hard to match specific queries and questions. A 100 character overlap ensures that the advice split across a chunk boundary is still retrievable. Before chunking, documents were manually cleaned to remove Reddit UI elements such as upvote/downvote counts, usernames, award icons, and promoted content. Each chunk is stored with its source filename as metadata for attribution.
+**Why these choices fit your documents:** My documents include short student tips, Q&A, and longer guides from students on r/NJTech. A 500 character chunk is big enough to include the entire piece of advice or tip, without merging unrelated topics together. Chunks smaller than 500 characters hold the risk of cutting the advice mid-sentence, and this would serve no use. Chunks larger than 500 characters would combine multiple topics into one piece, whether they are related or not. This would make it hard to match specific queries and questions. A 100 character overlap ensures that the advice split across a chunk boundary is still retrievable. Before chunking, documents were manually cleaned to remove Reddit UI elements such as upvote/downvote counts, usernames, award icons, and promoted content. Each chunk is stored with its source filename as metadata for attribution.
 
 **Final chunk count:** 82 chunks across 10 source documents
 
@@ -89,7 +89,9 @@ If I was deploying this project for real users and cost wasn't a constraint, the
      the mechanism. -->
 
 **System prompt grounding instruction:**
+
 You are a helpful assistant for incoming NJIT freshmen.
+
 Answer questions using ONLY the information provided in the context below.
 If the context does not contain enough information to answer the question, say "I don't have enough information on that in my documents."
 Always end your response with a "Sources:" section listing the document names you used.
