@@ -114,7 +114,7 @@ Second, the Gradio interface displays a separate "Retrieved from" field that pro
 | 2 | What GPA do you need to stay in good academic standing at NJIT? | 2.0+ Overall and Term GPA, Dean's List 3.0+, Greek Life 2.6+ | Correctly stated 2.0+ in both Overall and Term GPA but did not mention Dean's List or Greek Life GPA requirements | Relevant | Partially accurate |
 | 3 | How do disability accommodations work at NJIT through OARS? | Submit to OARS 3-4 days before exams, not professors; get docs in early | Correctly explained full OARS process including 3-4 day form requirement and ADA protections | Relevant | Accurate |
 | 4 | What do students say about whether NJIT is worth the cost? | CC first, dorms $5000+, University Centre $800/month, strong salaries | Covered CC advice and debt info correctly but missed University Centre pricing and dorm cost specifics | Partially relevant | Partially accurate |
-| 5 | What food spots near NJIT have student discounts? | Burger Walla, Meatball Obsession, Masala Cafe, Fresh Coast, Turkish Pita, Halal Guys | Returned 4 of 6 correctly — missed Masala Cafe and Turkish Pita Place | Partially relevant | Partially accurate |
+| 5 | What food spots near NJIT have student discounts? | Burger Walla, Meatball Obsession, Masala Cafe, Fresh Coast, Turkish Pita, Halal Guys | Returned 4 of 6 correctly; missed Masala Cafe and Turkish Pita Place | Partially relevant | Partially accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
