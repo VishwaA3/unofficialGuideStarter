@@ -46,7 +46,7 @@ The domain that I chose is making student advice and tips of surviving freshman 
 
 **Overlap:** 100 characters
 
-**Reasoning:** My documents include short student tips, Q&A, and longer guides from students on r/NJTech. A 500 character chunk is big enough to include the entire piece of advice or tip, without merging unrelated topics together. Chunks smaller than 500 characters hold the risk of cutting the advice mid-sentence, and this would serve no use. Chucks largers than 500 characters would combine multiple topics into one piece, whether they are related or not. This would make it hard to match specific queries and questions. A 100 character overlap ensures that the advice split across a chunk boundary is still retrievable. An example is if a parking tip starts at the endo f one chunk, then the next tip will also contain its beginning from the previous chunk.
+**Reasoning:** My documents include short student tips, Q&A, and longer guides from students on r/NJTech. A 500 character chunk is big enough to include the entire piece of advice or tip, without merging unrelated topics together. Chunks smaller than 500 characters hold the risk of cutting the advice mid-sentence, and this would serve no use. Chunks largers than 500 characters would combine multiple topics into one piece, whether they are related or not. This would make it hard to match specific queries and questions. A 100 character overlap ensures that the advice split across a chunk boundary is still retrievable. An example is if a parking tip starts at the endo f one chunk, then the next tip will also contain its beginning from the previous chunk.
 
 ---
 
