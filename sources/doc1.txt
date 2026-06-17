@@ -4,176 +4,154 @@ Difficulty: How difficult the course was
 Notes on Professor: Quality of teaching
 Personal Opinion: Overall thoughts on the course
 Usefulness: How the material was used in real life
-Freshman Year — Fall 2015CS100 — Roadmap to Computing
 
+
+Freshman Year — Fall 2015
+
+CS100 — Roadmap to Computing
 Professor: Barry Cohen
-
 Difficulty: 1/5
-
 Notes on Professor: Barry Cohen is an excellent starting professor for first-year students. He understands how to teach and is highly recommended for incoming students.
-
 Personal Opinion: This is a very easy course to grasp. If you are a CS major, you should not struggle here. Pay attention as it introduces Python, which will be used in later courses like CS356 and CS301.
+Usefulness: Very useful in practice — Python scripting knowledge from this course carries over into real professional work and later CS courses.
 
-Usefulness: Very useful in practice — Python scripting knowledge from this course carries over into real professional work and later CS courses.Freshman Year — Spring 2016CS252 — Computer Organization and Architecture
 
+Freshman Year — Spring 2016
+
+CS252 — Computer Organization and Architecture
 Professor: Michael Baltrush (no longer teaching; Sohn now teaches this course and reportedly does a great job)
-
 Difficulty: 3/5
-
 Notes on Professor: The original professor had little interest in teaching and moved through material too quickly. Sohn is now teaching this course and is well regarded.
-
 Personal Opinion: This was the only course that made the author reconsider CS. The combination of difficult material and an unmotivated professor made it hard to stay engaged. In retrospect, the material is foundational and worth paying attention to.
+Usefulness: Not directly used in practice, but builds a foundation for other courses.
 
-Usefulness: Not directly used in practice, but builds a foundation for other courses.CS114 — Intro to Computer Science II
-
+CS114 — Intro to Computer Science II
 Professor: Shu Lee
-
 Difficulty: 3/5
-
 Notes on Professor: Shu Lee did not distribute PowerPoint slides to encourage attendance. His project and lab instructions were sometimes hard to follow, requiring students to ask for clarification.
-
 Personal Opinion: CS114 is challenging but a great opportunity to learn Data Structures and Algorithms. The author AP'd out of CS113 and went straight into CS114.
+Usefulness: This is the single most important class in the NJIT CS curriculum. Nearly every technical interview involves CS114-level questions. If you cannot retake it in your final semester, practice on LeetCode or HackerRank — aim for Medium difficulty problems. Do not cheat on assignments; it only hurts you in interviews.
 
-Usefulness: This is the single most important class in the NJIT CS curriculum. Nearly every technical interview involves CS114-level questions. If you cannot retake it in your final semester, practice on LeetCode or HackerRank — aim for Medium difficulty problems. Do not cheat on assignments; it only hurts you in interviews.Sophomore Year — Fall 2016CS280 — Programming Language Concepts
 
+Sophomore Year — Fall 2016
+
+CS280 — Programming Language Concepts
 Professor: Gerard Ryan
-
 Difficulty: 5/5
-
 Notes on Professor: Gerard Ryan made every class interesting and was one of the few professors who made lectures genuinely enjoyable. Very passionate about technology.
-
 Personal Opinion: One of the most challenging courses. The main difficulty was learning C++ and Linux simultaneously without prior experience. The course taught how to break down complex problems into smaller, manageable pieces — a skill that transfers directly to professional work.
-
 Usefulness: The problem-solving approach taught in this course is more valuable than the specific content. Starting projects early is strongly recommended — finish at least a week ahead to have time to debug.
+Study Tips: Start projects early. Finish a week before the deadline so you have time to fix bugs.
 
-Study Tips: Start projects early. Finish a week before the deadline so you have time to fix bugs.Sophomore Year — Spring 2017CS332 — Principles of Operating Systems
 
+Sophomore Year — Spring 2017
+
+CS332 — Principles of Operating Systems
 Professor: Morty Kwestel
-
 Difficulty: 2/5
-
 Notes on Professor: Kwestel goes off topic frequently with personal stories, which can cut into lecture time. However, when on topic, he is clear about expectations. Exams closely mirror homework assignments.
-
 Personal Opinion: The material sometimes carried over into the next class due to time spent on stories. You often had to finish lectures on your own.
-
 Usefulness: Not directly used in practice, but good foundational knowledge.
+Study Tips: Practice the homework. Exams are very similar to homework problems.
 
-Study Tips: Practice the homework. Exams are very similar to homework problems.Junior Year — Fall 2017CS241 — Foundations of Computer Science I
 
+Junior Year — Fall 2017
+
+CS241 — Foundations of Computer Science I
 Professor: Adrian Ionescu
-
 Difficulty: 3/5
-
 Notes on Professor: Ionescu's teaching style was not effective for many students. He would write a complex problem on the board, wait briefly for student input, then solve it quickly without explanation. Questions were often redirected back to the textbook without elaboration.
-
 Personal Opinion: Most of this course required self-teaching. Only one topic from CS241 transferred directly to the follow-up course CS341.
+Usefulness: The concepts are understandable but rarely applied directly in professional practice.
 
-Usefulness: The concepts are understandable but rarely applied directly in professional practice.CS288 — Intensive Programming in Linux
-
+CS288 — Intensive Programming in Linux
 Professor: Andrew Sohn
-
 Difficulty: 4/5
-
 Notes on Professor: Sohn is an excellent professor despite his reputation. His live coding lectures were highly effective — he would present sample code with missing lines and ask the class to fill them in, making sessions very interactive.
-
 Personal Opinion: CS288 reinforced programming knowledge and gave a deeper understanding of Linux through practical assignments.
-
 Usefulness: Linux skills from this course are directly applicable in professional settings. Regex and grep in particular are extremely useful tools worth spending extra time learning.
+Study Tips: Do the homework from scratch on your own and you will be well prepared.
 
-Study Tips: Do the homework from scratch on your own and you will be well prepared.Junior Year — Spring 2018CS490 — Guided Design in Software Engineering
 
+Junior Year — Spring 2018
+
+CS490 — Guided Design in Software Engineering
 Professor: Theodore Nicholson
-
 Difficulty: 4/5
-
 Notes on Professor: Nicholson gives students a realistic taste of working in a professional team environment with people of varying skill sets.
-
 Personal Opinion: The experience varies heavily depending on your team. Some groups had members who did not contribute or dropped the course mid-project without notice. Taking this course with people you trust to get work done is strongly recommended. The professor will not intervene in team conflicts.
-
 Usefulness: Directly prepares you for real workplace dynamics — being assigned to a team you did not choose, managing tasks, and dealing with unequal contribution.
+Study Tips: There is a final exam. Nicholson will explicitly state what will be on it — write everything down. Complete the project as early as possible to allow time for debugging.
 
-Study Tips: There is a final exam. Nicholson will explicitly state what will be on it — write everything down. Complete the project as early as possible to allow time for debugging.CS431 — Database System Design and Management
-
+CS431 — Database System Design and Management
 Professor: Ananya Dass
-
 Difficulty: 2/5
-
 Notes on Professor: Dass is a kind and thorough professor who goes into detail on complex topics and reviews practice tests carefully with the class.
-
 Personal Opinion: Pay close attention — the SQL queries covered are detailed and complex, often over 400 characters long with full breakdowns.
-
 Usefulness: SQL knowledge is tested in job interviews. W3Schools covers this course material very well and is a great study resource.
+Study Tips: Use W3Schools — its table of contents maps closely to lecture topics.
 
-Study Tips: Use W3Schools — its table of contents maps closely to lecture topics.CS356 — Intro to Computer Networks
-
+CS356 — Intro to Computer Networks
 Professor: Susan Thomson
-
 Difficulty: 3/5
-
 Notes on Professor: Thomson is one of the best professors at NJIT. She explained networking topics clearly with strong visual diagrams and welcomed questions beyond the course scope.
-
 Personal Opinion: One of the most enjoyable courses. Thomson made complex topics accessible and her lectures made it easy to do well.
-
 Usefulness: Basic socket programming knowledge from this course is directly applicable in professional settings.
+Study Tips: Exams closely mirror homework. Complete the homework carefully and you will be well prepared.
 
-Study Tips: Exams closely mirror homework. Complete the homework carefully and you will be well prepared.Senior Year — Fall 2018CS435 — Advanced Data Structures and Algorithm Design
 
+Senior Year — Fall 2018
+
+CS435 — Advanced Data Structures and Algorithm Design
 Professor: Alexandros Gerbessiotis
-
 Difficulty: 4/5
-
 Notes on Professor: The course material is very important but the professor's teaching style is difficult — monotone delivery and long pauses waiting for student responses. However, his lecture notes are excellent and contain everything needed for the exam.
-
 Personal Opinion: Do not skip the lecture notes — they cover the exam material thoroughly. The textbook is allowed in exams but is not useful unless you already know the material. The mini project is interesting but time-consuming.
+Usefulness: This course teaches how to analyze time and space complexity, which directly leads to writing more efficient code professionally.
 
-Usefulness: This course teaches how to analyze time and space complexity, which directly leads to writing more efficient code professionally.CS341 — Foundations of Computer Science II
-
+CS341 — Foundations of Computer Science II
 Professor: Marvin Nakayama
-
 Difficulty: 2/5
-
 Notes on Professor: Nakayama is an outstanding professor — responds to questions quickly, hosts review sessions, and explains complex topics clearly and patiently.
-
 Personal Opinion: One of the most enjoyable courses. The logic and theory behind state machines and computation is interesting and well-taught.
-
 Usefulness: State machine diagrams from this course have been directly useful in professional settings.
+Study Tips: For the online version, listening at 1.5x or 2.0x speed is recommended — lectures are long and slowly paced.
 
-Study Tips: For the online version, listening at 1.5x or 2.0x speed is recommended — lectures are long and slowly paced.CS491 — Senior Project
-
+CS491 — Senior Project
 Professor: Osama Eljabiri
-
 Difficulty: 1/5
-
 Notes on Professor: Eljabiri is a passionate professor who genuinely wants students to succeed and encourages them to put their project experience on their resume.
-
 Personal Opinion: Experience varies heavily by sponsor. Some students had sponsors who did not provide meaningful work until late in the semester. Other groups had projects that could not realistically be completed in the time given. Results depend significantly on your assigned sponsor.
+Usefulness: Limited learning value, but the resume experience is worthwhile.
 
-Usefulness: Limited learning value, but the resume experience is worthwhile.Senior Year — Spring 2019CS301 — Data Science
 
+Senior Year — Spring 2019
+
+CS301 — Data Science
 Professor: Senjuti Roy
-
 Difficulty: 4/5
-
 Notes on Professor: Roy teaches this introductory course at a graduate level, often skipping over steps without explanation. Students with prior data science knowledge found her to be a strong professor; those without found the course difficult to follow.
-
 Personal Opinion: The course spent too much time reviewing statistics that were already covered in the prerequisite course. Lecture material did not always align with homework or exams. Independent study was necessary to fill in the gaps.
+Usefulness: Data science skills are increasingly relevant in the industry, even if not yet applied directly after graduation.
 
-Usefulness: Data science skills are increasingly relevant in the industry, even if not yet applied directly after graduation.General Advice for CS Students at NJITCareer advice:
 
+General Advice for CS Students at NJIT
+
+Career advice:
 CS114 is the most important course for job interviews — pay close attention and practice LeetCode/HackerRank problems, focusing on Medium difficulty
 Apply for internships and co-ops as early as possible, ideally after CS114
 NJIT offers On Campus Interviews (OCIs) through Handshake — check regularly
 NJIT Career Development Services offers reservable interview rooms for phone or video interviews
 Start applying for full-time jobs in your senior year — the interview process can take 2–3 months
 Apply on LinkedIn, Indeed, Monster, and Handshake simultaneously
-Academic advice:
 
+Academic advice:
 For every course, review material and past exams from previous semesters — exams are often very similar year to year
 The library and rooms in FMH are good study spots; be aware that FMH rooms may have scheduled classes
 Do not spend a large amount of money on a high-end laptop — a mid-range $500–$1000 laptop is sufficient for most CS coursework
 Consider installing Linux on your laptop or dual-booting — getting comfortable with Linux early is strongly recommended, especially before CS288
-Campus life:
 
+Campus life:
 Rush hour traffic near NJIT is heavy around 8–9am and 4–5pm; parking is most difficult between 11:30am–12:30pm and usually improves around 2pm
 It is generally safe to go off campus for food during the day; go in a group at night or ask campus security for an escort
 Research opportunities with professors exist in both paid and unpaid forms — great for resume building

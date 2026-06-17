@@ -1,55 +1,55 @@
 FAQ for Incoming Freshmen at NJIT
 
 (Written by a senior IT student who commutes — personal experience, not official NJIT information)
+
 1. How is the social life?
-
 Social life at NJIT is what you make of it. If you are dorming, in a fraternity or sorority, an international student, or an athlete, making friends is significantly easier. If you are a commuter and an introvert, it will take more deliberate effort.
+
 1a. How do I make friends as a commuter?
-
 You have to initiate conversations — do not wait for people to come to you. Make friends through group project classes, lab classes, or people you sit next to regularly. Join clubs — you can walk into most clubs even if you are not a member. Many friendships in college are temporary or surface-level, so be patient and keep meeting people. Work on your conversational skills.
+
 2. Is the campus safe given that it is in Newark?
-
 Generally yes. There are campus police and students around at all times. Newark does have a significant homeless population — if commuting, do not interact with anyone in Penn Station who approaches you. Walk away calmly.
+
 2a. What if I have night classes as a commuter?
-
 Stay on campus and do not wander off. Campus police can escort you if you feel unsafe walking alone.
+
 3. How is the food?
-
 On-campus food is average. There is a mini Taco Bell, sushi, Starbucks, salads, sandwiches, and a market store with snacks and drinks. Off campus there is Subway, Ramen Gami, Yaya Tea, and Dunkin. Food trucks are also available. The area around Rutgers-Newark has significantly better food options. Bringing food from home is the best option if possible.
+
 4. How difficult is it academically?
-
 For STEM majors, expect the workload and difficulty to be significantly higher than high school. Math and physics are particularly demanding. Study consistently and do not fall behind. Academic dishonesty is taken very seriously — getting caught cheating results in an XF grade or expulsion for repeat offenses. Professors in CS are particularly vigilant about AI usage.
+
 4a. Is NJIT a good school for my major?
-
 For STEM and IT majors, yes. NJIT is strong in technology and engineering fields.
+
 4b. Is it worth going into debt for a more well-known school?
-
 No. Do not go into significant debt for a brand name unless you are attending an Ivy League school. The education quality at a state school like NJIT is comparable, and the financial difference over four years is enormous.
+
 4c. What if I am not strong in math or science?
-
 If you struggle with math or do not enjoy it, seriously consider whether a STEM major at NJIT is the right fit. The math and CS departments are known for weeding out students in the first year. Cheating or over-relying on AI will not help — it will catch up with you in exams and advanced courses.
-5. How are the professors?
 
+5. How are the professors?
 There are excellent professors and poor ones. Use RateMyProfessors before choosing. Register for classes before 9:30pm on registration day — waiting results in poor professor and schedule options. Have your registration plan ready to go before your window opens, and do not refresh the page if it is slow to load.
 Recommended professors: Steve Kane (physics), Toegel, Sequeira, Karl (IT), Nancy Burke (English 102).
+
 6. Does NJIT help with getting internships and jobs?
-
 NJIT teaches core concepts but you must build your own portfolio and practice outside of class. CS majors should practice LeetCode. IT majors should study for certifications and build a home lab. Networking with peers and attending networking events is also important — connections from classmates can lead directly to job opportunities.
+
 6a. Is it easy to get an on-campus job?
-
 Only if you have Federal Work Study (FWS). Without FWS, on-campus jobs are very difficult to get. FWS jobs are available through Cornerstone and pay you until your award amount is reached.
+
 7. Is NSO required?
-
 Yes. Attend — it is a good opportunity to meet people before classes start.
+
 8. Can I pick my schedule for the first semester?
-
 No. Your first semester schedule is assigned. It will likely include early morning classes and an uneven layout. This is normal.
+
 9. How do I get more scholarship money?
-
 Email admissions@njit.edu and request a financial aid appeal. Explain your situation clearly. If accepted, you will receive a yearly scholarship of a few thousand dollars that requires maintaining a 3.0 GPA. Apply to local scholarships while still in high school — this is one of the best ways to reduce overall costs.
+
 10. Is the stereotype about NJIT students true?
-
 There is a stereotype that NJIT students are socially awkward or have poor hygiene. It exists for a reason but does not apply to everyone. You will find socially confident and well-adjusted people here — sit next to the right people in class and during NSO.
-11. General advice for incoming freshmen:
 
+11. General advice for incoming freshmen:
 Do not lose yourself in academics. It is easy to become burned out, especially if you have other commitments like a job. Stay connected with friends and family, keep doing hobbies you enjoy, and take care of your physical health. Burnout leads to worse grades and a worse experience overall. College is much more manageable when you maintain a support system and take care of yourself.
