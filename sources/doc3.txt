@@ -1,90 +1,55 @@
-FAQ for incoming freshmen
-I see a lot of posts like these especially around the spring semester so I just wanted to make this post. This is mostly my own personal take so don't take some of my answers too seriously. I'm a senior in IT that commutes so I'm sure everyone will have their own different experiences, but with that being said, my experience isn't far off from others/the expectations of this school. Feel free to add your own opinions or answer another common question I missed in the comments. I can also answer or give tips on anything in the comments/DMs as well.
+FAQ for Incoming Freshmen at NJIT
 
+(Written by a senior IT student who commutes — personal experience, not official NJIT information)
 1. How is the social life?
 
-This is the top question I see all the time. And the answer is it is what you make of it. Do you dorm? Are you an international student? Do you want to be in a frat/sorority? Are you an athlete? If you said yes to any of these questions, great! It is 10x easier for you to make friends and have a good social life. We do have parties. If you said no to all of these questions, how about this question: are you an introvert? If you said yes to that question, then it'll be 10x harder.
+Social life at NJIT is what you make of it. If you are dorming, in a fraternity or sorority, an international student, or an athlete, making friends is significantly easier. If you are a commuter and an introvert, it will take more deliberate effort.
+1a. How do I make friends as a commuter?
 
-1a. How can I make friends? I'm a commuter.
+You have to initiate conversations — do not wait for people to come to you. Make friends through group project classes, lab classes, or people you sit next to regularly. Join clubs — you can walk into most clubs even if you are not a member. Many friendships in college are temporary or surface-level, so be patient and keep meeting people. Work on your conversational skills.
+2. Is the campus safe given that it is in Newark?
 
-You really gotta come up to people and just start talking. I know it's easier said than done, but if you don't, you really won't have any new friends. Don't expect people to come up to you especially if you're sitting alone in class/somewhere on campus. Make friends out of your group groupmates from a project based class, or your lab classes, or maybe someone you sit next to in class all the time. Join clubs if you're able to! You can always just walk in a club even if you're not in it, I've done this with a couple clubs even if it's unrelated to my major. Unfortunately a lot of people you will meet will only last for a semester or just be surface-level friends, so it's all about experimenting who's going to last. It sounds somewhat sad but it's true. Also, practice your conversational skills. seriously..
+Generally yes. There are campus police and students around at all times. Newark does have a significant homeless population — if commuting, do not interact with anyone in Penn Station who approaches you. Walk away calmly.
+2a. What if I have night classes as a commuter?
 
-2. Is the campus safe given it is Newark?
-
-Yes, to an extent. You generally have nothing to worry about. There are campus police. Students everywhere. Of course, be mindful that it is still a city, and Newark has a terrible homeless/drug user problem. If you dorm, you're all good, just don't wander off too much off campus. If you're a commuter, literally just don't interact with any homeless person in Penn Station. WALK AWAY. Don't bother them. Don't look at 'em.
-
-2a. What if I commute and have night classes?
-
-Again, don't wander off campus and you're fine. You can always be escorted by campus police if you feel a little uncomfortable all alone.
-
+Stay on campus and do not wander off. Campus police can escort you if you feel unsafe walking alone.
 3. How is the food?
 
-Meh. I don't have a meal plan so I'm not sure what the dining hall is like. I heard it's okay (mostly), but the commuter food is alright. Imo it's better to bring food from home. But if you can't, we have a mini Taco Bell, sushi, Starbucks, salads, and sandwiches. We also have a market store inside with drinks, snacks/candy, coffee, ice cream, and packaged sandwiches. Off campus there's Subway, Ramen Gami, Yaya Tea, and Dunkin. A bunch of food trucks if that's your thing. The area surrounding Rutgers has a lot of better food places though. La Cocina slaps! Also be mindful some of the ladies that work in the commuter food places don't wash their hands after they use the bathroom lol
+On-campus food is average. There is a mini Taco Bell, sushi, Starbucks, salads, sandwiches, and a market store with snacks and drinks. Off campus there is Subway, Ramen Gami, Yaya Tea, and Dunkin. Food trucks are also available. The area around Rutgers-Newark has significantly better food options. Bringing food from home is the best option if possible.
+4. How difficult is it academically?
 
-4. Is it hard as an X major?
+For STEM majors, expect the workload and difficulty to be significantly higher than high school. Math and physics are particularly demanding. Study consistently and do not fall behind. Academic dishonesty is taken very seriously — getting caught cheating results in an XF grade or expulsion for repeat offenses. Professors in CS are particularly vigilant about AI usage.
+4a. Is NJIT a good school for my major?
 
-Are you a stem major? If you answered yes, get ready to completely change the way on how you study for school. Math and physics here is brutal. All my engineering friends souls have been reaped away by sophomore year. I barely hear from my CS friends. "Ohh but adjaplx, you're an IT major-" THAT'S NOT THE POINT. But seriously, study hard. And don't slack. Everything will end up biting you in the ass if you're not doing your best. And also don't cheat. This school does not play with cheaters. If your professor actually cares about who uses AI or not (hint: a lot of the CS profs), you're fucked if they report to DOS. And don't cheat on your exams either. If you get caught you fail with an XF. Or worse you get expelled if you're dumb enough to do it again.
+For STEM and IT majors, yes. NJIT is strong in technology and engineering fields.
+4b. Is it worth going into debt for a more well-known school?
 
-Anyway, if you answered no, then nah you're fine. And yes IT is easier than other majors with a couple classes being the exception lol
+No. Do not go into significant debt for a brand name unless you are attending an Ivy League school. The education quality at a state school like NJIT is comparable, and the financial difference over four years is enormous.
+4c. What if I am not strong in math or science?
 
-4a. Is NJIT a good school for an X major?
+If you struggle with math or do not enjoy it, seriously consider whether a STEM major at NJIT is the right fit. The math and CS departments are known for weeding out students in the first year. Cheating or over-relying on AI will not help — it will catch up with you in exams and advanced courses.
+5. How are the professors?
 
-If you're a STEM major, yes. If you're IT (quite the debate on whether IT is STEM or not here), yes if you get good classes. We are New Jersey Institute of Technology, it is in the name.
+There are excellent professors and poor ones. Use RateMyProfessors before choosing. Register for classes before 9:30pm on registration day — waiting results in poor professor and schedule options. Have your registration plan ready to go before your window opens, and do not refresh the page if it is slow to load.
+Recommended professors: Steve Kane (physics), Toegel, Sequeira, Karl (IT), Nancy Burke (English 102).
+6. Does NJIT help with getting internships and jobs?
 
-If you're not, maybe not, but...
+NJIT teaches core concepts but you must build your own portfolio and practice outside of class. CS majors should practice LeetCode. IT majors should study for certifications and build a home lab. Networking with peers and attending networking events is also important — connections from classmates can lead directly to job opportunities.
+6a. Is it easy to get an on-campus job?
 
-4b. NJIT is practically free versus X school, but I heard X school is better because of X.
+Only if you have Federal Work Study (FWS). Without FWS, on-campus jobs are very difficult to get. FWS jobs are available through Cornerstone and pay you until your award amount is reached.
+7. Is NSO required?
 
-DOESN'T MATTER. DO NOT GO INTO DEBT JUST BECAUSE OF A NAME BRAND. We are probably still on par with said school in terms of education. Unless you got into Harvard, you will thank your ass four years later that you picked a couple thousand per year state school (or free!) over 200k student debt. That is the last thing you want to do.
-
-4c. I'm not good at math or science. Should I still be an X major here?
-
-First, I would like to say if you are not good at something but you still enjoy it, learn how to practice to be better at it. With that being said, if you suck at studying, you will have a bad time academically and mentally. If you don't like math, algorithms, or spending a lot of time to study, then consider changing your major or going somewhere else, because our school is notorious for weeding freshmen out their first year. And don't think cheating or using AI will help you in your first couple of semesters, it will come to bite you in the ass by the time exams come or when you take higher level classes. The math and CS department is literally Satan's playground.
-
-5. How are the professors here?
-
-There's good ones. There's bad ones. Be mindful on the ones you'll end up picking after your first semester. RMP will be your friend. And every registration day DO NOT REGISTER AFTER 9:30 PM. Your schedule will suck. You'll have bad professors. My advice is to have that tab open 10 minutes before. And make sure you already made a plan in registration so you can just load it in by the time your registration window opens. Do not refresh if it takes a while to load either.
-
-Anyway, back to professors. I've had a lot of really good ones the past couple semesters. The good ones truly care about you and how you're doing in the class and want to support you. Just communicate if you have any struggles with anything in school or out of school and they'll try to help. Shoutout to Steve Kane (THE goat of physics [so much so you refer to him by his full name]), Toegel, Sequeira, Karl (goats of IT), and Nancy Burke (my ENGL102 prof lol)
-
-6. Is NJIT a good pick to help me get internships/jobs?
-
-Okay I used to ask this as an incoming freshman tbh. Two years later, I can answer that NJIT will teach you core concepts but you're going to have to start building projects/working on your own portfolio outside of school. You'll probably have a couple projects from classes you've done, but you'll still need to practice doing stuff out of school regardless. CS majors, LeetCode will be your friend. IT majors, get ready to study for certs, homelab, etc. This is not exclusive to just here. Every college you're going to have to do stuff outside of school. How else will you get hired if you don't have the skills?
-
-6a. Wait, so is X school better to help me get internships/jobs?
-
-Unless it's an ivy school, no. Which ties back to my other answer to social life: making friends can help you get connections to jobs. There are also networking events you can go to. And please, know how to keep a good convo when you do network.
-
-6b. Is it easy to get a job on campus then?
-
-Do you have federal work study? If so, congratulations, you'll get a job in 1-2 months at the time of applying for one on Cornerstone. If you don't, it's practically impossible to work on campus. Even with FYS, you're most likely going to work off-campus, NJIT just pays you. And no it's not a permanent job. You work with your own scheduled hours until the amount you receive in paychecks equal the amount you recive in their funds. For example, if your FYS award was $2,000, you work until you got paid $2,000 in total.
-
-Oh yeah, P.S, if you have a FYS job and you also have a job off-campus, make sure the two doesn't conflict
-
-7. Is going to NSO required?
-
-Yes. Don't miss out, you'll get to talk to people
-
+Yes. Attend — it is a good opportunity to meet people before classes start.
 8. Can I pick my schedule for the first semester?
 
-No. Which is kinda weird but whatever. It is a gamble. And yes you'll most likely have 8 ams. And yes your schedule will most likely be all over the place.
-
+No. Your first semester schedule is assigned. It will likely include early morning classes and an uneven layout. This is normal.
 9. How do I get more scholarship money?
 
-ASK TO APPEAL. Seriously. Do it before it's too late. Email admissions@njit.edu and ask. Explain why. You won't get a full ride from them but if they accept your appeal, they'll give you a yearly scholarship for a couple thousand. You'll just need to do your part and maintain at least a 3.0 to keep it. If it's too late/you lost it, it's tough luck. And no ScholarshipUniverse doesn't help so don't listen to anyone saying otherwise. Honestly, if you're still in highschool reading this, and you need scholarship money, apply to your local ones. That's what I did and I got pretty good money out of it. The best part it all went to me and not NJIT
+Email admissions@njit.edu and request a financial aid appeal. Explain your situation clearly. If accepted, you will receive a yearly scholarship of a few thousand dollars that requires maintaining a 3.0 GPA. Apply to local scholarships while still in high school — this is one of the best ways to reduce overall costs.
+10. Is the stereotype about NJIT students true?
 
-10. Is the stereotype really true?
+There is a stereotype that NJIT students are socially awkward or have poor hygiene. It exists for a reason but does not apply to everyone. You will find socially confident and well-adjusted people here — sit next to the right people in class and during NSO.
+11. General advice for incoming freshmen:
 
-There is a stereotype that NJIT is full of antisocial, unhygienic students that don't really know proper etiquette in how to act in public. The answer is unfortunately yes. But hey they're not everywhere! Mostly... stay away from the CKB basement couches, it is dirty for a reason
-
-Please don't let this stray you away from coming. There are social people out there. There are people who.. aren't sheltered, to say in nice terms. Just find and sit next to the right people. Also this applies in NSO too
-
-11. Is walking under the bell tower going to give me bad luck for the next 4 years?
-
-Yes
-
-12. What is your advice for incoming freshmen?
-
-Besides the answers here, my advice is to not lose yourself in academics. It's really easy to but don't treat college like it's your life. It drained me the fuck out especially as I have several other commitments besides school (my job for example), so be sure you still connect with current friends/new friends you make and keep doing the hobbies you love. Being burnt out will make you hate the school and your major, and it'll drop your grades. Practice self care too, like going to the gym, spending time outside, etc. If you manage to keep yourself, then you'll be fine during college. It's not easy but it's much much more bearable when you still got a support system, whether it be yourself or the friends/family you talk to.
-
-Good luck to all of you coming here!
+Do not lose yourself in academics. It is easy to become burned out, especially if you have other commitments like a job. Stay connected with friends and family, keep doing hobbies you enjoy, and take care of your physical health. Burnout leads to worse grades and a worse experience overall. College is much more manageable when you maintain a support system and take care of yourself.

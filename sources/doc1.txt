@@ -1,122 +1,181 @@
-My guide to Computer Science at NJIT
-Guide to CS at NJIT (My personal opinions)
+My Guide to Computer Science at NJIT (Personal Opinions)This guide covers the major CS courses required for the curriculum at NJIT, written by a 2019 graduate. The goal is to help current or prospective NJIT students understand what to expect from these courses and professors.Format:
 
-yo. I graduated May of 2019 and I just wanted to take some time to leave my "yelp" review of all the experiences I had with NJIT throughout the past 4 years I've been here. This overview is going to be focused towards the major Computer Science courses required for the curriculum. I'll be going over the major CS courses I've taken at NJIT and in the order I took them in. The intention of this post is to help people who are currently in NJIT and planning on taking these courses or people that are considering going to NJIT and are concerned about the quality of the courses. Hopefully someone out there that's thinking about taking these classes or these professors and will take something away from this post.
+Difficulty: How difficult the course was
+Notes on Professor: Quality of teaching
+Personal Opinion: Overall thoughts on the course
+Usefulness: How the material was used in real life
+Freshman Year — Fall 2015CS100 — Roadmap to Computing
 
-If you have any questions, comments, or things you would like to add to the thread, feel free to reply to the thread and I'll add them as soon as I can.
+Professor: Barry Cohen
 
+Difficulty: 1/5
 
-The format I will be following is :
+Notes on Professor: Barry Cohen is an excellent starting professor for first-year students. He understands how to teach and is highly recommended for incoming students.
 
-Difficulty = How difficult I found the course to be.
+Personal Opinion: This is a very easy course to grasp. If you are a CS major, you should not struggle here. Pay attention as it introduces Python, which will be used in later courses like CS356 and CS301.
 
-Notes on Professor = How I felt the professor was at teaching and explaining course material.
+Usefulness: Very useful in practice — Python scripting knowledge from this course carries over into real professional work and later CS courses.Freshman Year — Spring 2016CS252 — Computer Organization and Architecture
 
-Personal Opinion = What I thought about the course overall.
+Professor: Michael Baltrush (no longer teaching; Sohn now teaches this course and reportedly does a great job)
 
-Usefulness = How I have personally utilized this course in my daily/professional experiences. Results may vary.
+Difficulty: 3/5
 
-(Extra) Helpful Links = I'm hoping some comments could help me out on this part.
+Notes on Professor: The original professor had little interest in teaching and moved through material too quickly. Sohn is now teaching this course and is well regarded.
 
-(Extra) Study tips = I'll put this in here if there is anything really important.
+Personal Opinion: This was the only course that made the author reconsider CS. The combination of difficult material and an unmotivated professor made it hard to stay engaged. In retrospect, the material is foundational and worth paying attention to.
 
-And to state the obvious : This is a summary of how I felt about the courses, and it is entirely my opinion.
+Usefulness: Not directly used in practice, but builds a foundation for other courses.CS114 — Intro to Computer Science II
 
-Freshman Year
-Fall 2015
-| CS100 | Roadmap to Computing | | ------ | ------ | | Professor | Barry Cohen| | Difficulty | ★☆☆☆☆ | | Notes on Professor | Barry was probably the best option I could've had for a first-day college student. He knows what he is doing and understands how to teach. Overall a great professor to start with. | | Personal Opinion | This is a really easy course to grasp and understand fully. If you're a Computer Science major and you fail this course, you'll have to really get your shit together or consider switching your major. | | Usefulness | Because CS 100 exposed me to Python, I found this class to be really useful in practice. I've made many different Python scripts that automate simple tasks that otherwise would've taken me hours. It'll also be used in later courses like CS356 and CS301 so you should definitely get familiar with this early on. |
+Professor: Shu Lee
 
-Spring 2016
-| CS252 | Computer Organization and Architecture | | ------ | ------ | | Professor | Michael Baltrush | | Difficulty | ★★★☆☆ | | Notes on Professor | Baltrush doesn't teach anymore, so I don't think there is a need for comments on him. See below for some details. | | Personal Opinion | I took this the 2nd semester of my freshman year and this is the only course that's made me reconsider CS. I found that the course material was just difficult to understand especially when the professor has no interest in teaching students and plows through the PowerPoints like nothing. I personally didn't have too much interest in lower-level/assembly programming (Ironically, I work with low level systems now, so in retrospect I should've paid attention) so I wasn't motivated to keep on learning the course material. The combination of an unmotivated professor and no interest on my end really made me not care about this course too much. I heard Sohn is teaching the course now and is doing a great job teaching students. | | Usefulness | Never used anything I learned from CS 252 in practice, but it did build a foundation of what other courses are built on. |
+Difficulty: 3/5
 
+Notes on Professor: Shu Lee did not distribute PowerPoint slides to encourage attendance. His project and lab instructions were sometimes hard to follow, requiring students to ask for clarification.
 
-| CS114 | Intro To Computer Science II | | ------ | ------ | | Professor | Shu Lee | | Difficulty | ★★★☆☆ | | Notes on Professor | I had this professor the first semester he was teaching 114. I personally didn't think he was too bad mainly because I knew some of the topics in the syllabus. Despite that, I can understand why other people might struggle in the course. If I remember correctly, I had a hard time following his projects/lab instructions and I had to go out of my way to ask Shu Lee or other classmates to understand what he meant. Also, I remember him not handing out PowerPoint slides because he wanted everyone to go to class (Which i think is dumb). | | Personal Opinion | I was able to AP out of CS 113 so I went straight to CS 114 after CS 100. I think CS114 was pretty challenging but it was also a great opportunity to learn Data structures and Algorithms. | | Usefulness | This is, without a doubt, the most important class in the NJIT Computer Science curriculum and will be the basis of all the interview that you go on. If you want a job, pay attention to this course. I wish I had paid more attention in this course because it would've saved me in the long run. I recently went through a bunch of interviews before landing my first job offer and 99% of the time, the interview questions would be CS114-like questions. I honestly think it'd be a good idea to just retake this course while in your final semester here so you can practice common coding questions asked on interviews while you're looking for your first job. If you do not have the chance to take this in your senior semester, I would recommend just doing leetcode or hackerrank problems. Typically I would do Mediums for CS114 difficulty equivalent questions | | Useful links | Facebook professor's course material | | Study tips | Try to do all the homework by yourself and do not cheat off of other people. If you cheat, you're only hurting yourself, especially for a course as important as this. |
+Personal Opinion: CS114 is challenging but a great opportunity to learn Data Structures and Algorithms. The author AP'd out of CS113 and went straight into CS114.
 
-Sophomore Year
-Fall 2016
-| CS280 | Programming Language Concepts | | ------ | ------ | | Professor | Gerard Ryan | | Difficulty | ★★★★★ | | Notes on Professor | Gerard made every single class interesting. He'd always talk about something in his personal life and is a huge nerd about tech things. He's one of the few professors in this school that made the class fun and enjoyable to listen to for more than an hour. | | Personal Opinion | I think this is one of the courses that are equivalent in difficulty as CS 288 (Programming wise). I found this course to be the most challenging I've taken at the time because I was just a big noob back then. I didn't understand how to use Linux and CS 280's main language, C++. Along with that, I didn't have a group of CS friends that were in my grade so I was going into this class solo. I found myself getting stuck on "complicated" topics but in reality, I just didn't understand simple concepts like pointers and polymorphism. For me, this was the biggest learning curve I've had since I started programming and I can really appreciate the difficulty of this course now that I've taken it in the past. Gerard course taught me how to appreciate difficult courses because at the end of the day, I learned so much by trial and error, learning C++ on my own, and trying out different approaches to problem solving. | | Usefulness | Although I primarily work with C++ now, I haven't made programs that are similar to the ones that you create in CS280. The most useful thing I took you from this course was the problem solving technique that the course made me go through. It really teaches you how to take a complex problem which will seem daunting at first, and break it down into smaller, more manageable pieces. It also taught me how to make an outline as well as how programs should run. Overall, anyone taking this course, or will eventually take the course, you will definitely appreciate the difficulty after taking it and going through the pain of not knowing wtf to do. | | Study tips | I would highly recommend starting the projects early. I usually finished all of the projects a week before so I have some time to iron out bugs if they show up and confirm with some classmates that the project is working as intended. |
+Usefulness: This is the single most important class in the NJIT CS curriculum. Nearly every technical interview involves CS114-level questions. If you cannot retake it in your final semester, practice on LeetCode or HackerRank — aim for Medium difficulty problems. Do not cheat on assignments; it only hurts you in interviews.Sophomore Year — Fall 2016CS280 — Programming Language Concepts
 
-Spring 2017
-| CS332 | Principles of Operating Systems | | ------ | ------ | | Professor | Morty Kwestel | | Difficulty | ★★☆☆☆ | | Notes on Professor | Morty...Morty is a goofy professor with a scientific af mind. He can get off topic very easily and if you don't like a professor talking about random stuff for like 30 minutes, don't take him. However, when he is on topic, it's pretty straightforward with what he wants from you. He makes it pretty obvious what will be on the exams (Usually it's a copy pasta of the homework but with different numbers) and will explain things if you ask. Pretty easy class, but you have to read a lot and if you get stuck on something, try to refer to old class material. | | Personal Opinion | Morty made class pretty interesting with his stories, but it would sometimes be annoying because he would take up a portion of class talking about why street signs have the green color on the bottom and red on top and would often rush the actual material since there is less time. The material would sometimes bleed into the next class because of the stories he would tell and you would usually have to finish up the lecture on your own. | | Usefulness | Never really used anything I learned in this course in practice, but the material is still good to know. | | Study tips | Practice the homework that is given to you. Exams are most likely going to be exactly like the homework. |
+Professor: Gerard Ryan
 
-Junior Year
-Fall 2017
-| CS241 | Foundations Of Comp Science I | | ------ | ------ | | Professor | Adrian Ionescu | | Difficulty | ★★★☆☆ | | Notes on Professor | Ionescu's class is a shitshow. I did not like the way he taught his class because it would mainly go something like this : 1) Write a complicated problem on the board 2) wait 20 seconds for the entire class to "solve" this complex problem 3) Solve the problem on the board within 2 minutes without explaining anything 4) go back and point at random parts of the solved equation and tell the class to "just do it". I remember that he would ask the class if there are any questions on the previous lecture and if someone were to ask a question, he'd say something like "it was in the textbook, did you not read it?" and just dismiss him/her. | | Personal Opinion | For the most part, I taught myself this course. CS241 felt like a course that I had to take as a "filler". I think only one topics from CS241 transferred to the following course, CS341, and even then, the topic wasn't even difficult to learn on your own. Doing some problems in 241 felt pretty good after knowing how to solve it, but more often than not, it's just regurgitating an answer for a similar question but with different numbers. | | Usefulness | Although I do understand the concept and theory behind the course, I don't know when or how I will be applying CS241 work in to real life practice. Like I said before, I think only 1 topic from this course was used in the following course, CS341. |
+Difficulty: 5/5
 
+Notes on Professor: Gerard Ryan made every class interesting and was one of the few professors who made lectures genuinely enjoyable. Very passionate about technology.
 
-| CS288 | Intensive Programming in Linux | | ------ | ------ | | Professor | Andrew Sohn | | Difficulty | ★★★★☆ | | Notes on Professor | Andrew Sohn. Aka. Sohn the destroyer. Despite what people think, I think Sohn is an excellent professor. His lectures could sometimes consist of him reading straight off the power points but other times he has live coding examples which allows the class to be really involved. During his live coding lectures, he would always have a sample program with a few lines of code missing and he would present to the class and then ask them what he should add or remove in order to solve a specific task. (Usually relating to the lecture on the previous day). I found this approach to be effective since you can see the cause and effect of what that piece of code will do live and if you have different ways to solve a problem, you could always ask Sohn for his opinion. | | Personal Opinion | 288 is great. I think it'll overall reinforce your programming knowledge and give you a more in-depth understanding of Linux especially with the assignments that are given to you throughout the semester. | | Usefulness | Although CS280 exposed me to Linux, CS288 helped me understand the real power of using a linux distro. I can do a lot of tasks that were difficult or more complicated on windows with the help of Linux and overall makes my programming experience nicer. Also, regex and grep is op, you should really take the time to learn this as it has helped me save so much time. | | Useful Links | Learn regex, Sohn's old stuff| | Study tips | If you actually do the homework "from skwatch" you'll be fine. |
+Personal Opinion: One of the most challenging courses. The main difficulty was learning C++ and Linux simultaneously without prior experience. The course taught how to break down complex problems into smaller, manageable pieces — a skill that transfers directly to professional work.
 
-Spring 2018
-| CS490 | Guided Design in Software Engineering | | ------ | ------ | | Professor | Theodore Nicholson | | Difficulty | ★★★★☆ | | Notes on Professor | Nicholson is a great professor and gives you a taste of what it's like to be in the real world. He really shows you what it's like to be in a company and be thrown on a team with varying skill sets and personalities that you may not like. | | Personal Opinion | Your experience will change depending on which part you take and also the group of people you are working with. I personally had to deal with middle-end because from my understanding at the time, I was told it was the most difficult and I wanted to give myself a challenge. Turns out you don't have anything to do until like the middle of the project and once you do that one task, you're basically done for the rest of the semester. I would consider the middle-end the easiest out of all 3, but that "one task" is a pretty difficult thing to solve. As for my group, I was fortunate enough to have a 2 friends that I've taken classes with before to be on my team and we were able to complete all of the tasks on time. I do remember other groups that weren't so fortunate and they had to work with people who didn't show up to their planned meetings, just didn't do the things they were assigned, or even dropped the class without giving notice to their team. This class is heavily reliant on a good team and that's why I would highly recommend taking this course with people you can trust to get shit done and people that have good working habits. Otherwise you might be stuck with a person that barely does his work and Nicholson will not give a fuck regardless of how much you complain about your struggles. | | Usefulness | Once you start your first job, you will most likely be thrown into a team with people you don't know and you may not like their personalities. CS490 is a way to get a glimpse into the future where not everything will go the way you want it. You may potentially have to deal with people who do not care about the project they are assigned and this course could potentially teach you about how to handle it. Along with that, I think this course teaches you project management and how to manage your time. There are a lot of requirements needed for the projects and you'll find a way to break down and divide the work. | | Useful links | Use this if you want to stay organized | | Study tips | There is a final exam for this course and Nicholson will explicitly say what will be on the final, just be sure to write it all down and you'll do fine. As for the project, get it done as soon as possible to iron out bugs. |
+Usefulness: The problem-solving approach taught in this course is more valuable than the specific content. Starting projects early is strongly recommended — finish at least a week ahead to have time to debug.
 
+Study Tips: Start projects early. Finish a week before the deadline so you have time to fix bugs.Sophomore Year — Spring 2017CS332 — Principles of Operating Systems
 
-| CS431 | Database System Design and Management | | ------ | ------ | | Professor | Ananya Dass | | Difficulty | ★★☆☆☆ | | Notes on Professor | Dass is a really kind and caring professor. She will always go over the practice tests and go over any problems that you are stuck on. She's a great professor and does a great job giving a lot of details on complicated topics. | | Personal Opinion | I can tell from experience that you should really pay attention to this course. Dass goes really in depth with all the queries she has and would often times make one that's more than 400 characters, which she will follow up with a breakdown of what each part is doing. | | Usefulness | Even though the professor was good, I personally just didn't really care about databases and SQL things at the time, but again, in retrospect, I should've paid more attention. I have had a few interviews where I had a pop-quiz on SQL queries I was not prepared for but, doing leetcodes and hackerranks I was able to understand a lot of complicated queries within a day or so. Besides interviews however, I did have to create and manage a few databases of my own and the course did give me a good understanding of what to do and what query I would need to get a specific data set. | | Useful links | w3schools | | Study Tips | tbh, w3schools does a really good job teaching the material for this course. It's table of content potion has sections that will correspond to the lecture so you can use this resource as a way to study. |
+Professor: Morty Kwestel
 
+Difficulty: 2/5
 
-| CS356 | Intro To Computer Networks | | ------ | ------ | | Professor | Susan Thomson | | Difficulty | ★★★☆☆ | | Notes on Professor | Thomson is one of the best professors I had at NJIT and is the reason why I found the class so interesting and fun. I think she did a fantastic job explaining topics on networking and had a lot of diagrams explaining specific topics. Overall, she was really easy to understand and her lectures made it easy to pass the course. | | Personal Opinion | CS356 was one of my favorite courses and Thomson definitely made the class more enjoyable. Sometimes, people would ask complex questions outside the scope of the course and she would elaborate on the question and then explain how you could build you knowledge to get to that point (Questions would include some topics like network attacks and vulnerability exploits). She's a very knowledgeable professor and knows what she is talking about. | | Usefulness | I can remember a few times where I had to do basic socket programming and this course helped me a lot in understanding what to do. The homeworks were informative and would directly relate to the course material to further your understanding on the topic. | | Study tips | This course, like most others, have exams that are exactly like the homework. Do the homework and you'll be fine. |
+Notes on Professor: Kwestel goes off topic frequently with personal stories, which can cut into lecture time. However, when on topic, he is clear about expectations. Exams closely mirror homework assignments.
 
-Senior Year
-Fall 2018
-| CS435 | Advanced Data Structures and Algorithm Design | | ------ | ------ | | Professor | Alexandros Gerbessiotis | | Difficulty | ★★★★☆ | | Notes on Professor | I think this course is very important in understanding how to create an efficient algorithm but this professor does a really bad job explaining topics. His lectures are very awkward and his voice is monotone. I say awkward because he would just ask the class a question and wait for 5 minutes for someone to raise their hand and answer a question. The question is usually not something you would have to calculate, usually it would be a 1 word answer, but he would still just sit there and wait for someone to give a proper answer before continuing the lecture. | | Personal Opinion | Like I said before, this course is very important and you should take your time going through it all. Even though I said that the professor was not that great, his lecture notes are amazing. Everything you need for the exam is right in those notes and it explains everything well. I do remember a lot of people complaining about how he only taught a small portion of what is on the exam in class, but most of the topics were in the lecture notes. He does allow the textbook to be brought into the class, but it's usually a bait. If you don't know the material before coming into the class, or have an idea of what to do, the textbook won't help you at all. Mini project was pretty cool, but kinda tedious. | | Usefulness | This course has taught me how to take a step back and try to think of a more elegant solution rather than just brute force everything. Understanding how to calculate time and space complexities would often make me write more efficient code in order to reduce time/space. | | Study Tips | "I'm High Quality SCRuB -> IMHQSCRB -> This may be stupid, but it makes sense. Trust me.. It's useful to use that, but it's probably better to just visualize the algo in your head... |
+Personal Opinion: The material sometimes carried over into the next class due to time spent on stories. You often had to finish lectures on your own.
 
+Usefulness: Not directly used in practice, but good foundational knowledge.
 
-| CS341 | Foundations of Computer Science II | | ------ | ------ | | Professor | Marvin Nakayama | | Difficulty | ★★☆☆☆ | | Notes on Professor | Although I took the online course for Nakayama, I still think he is a great professor. He replied to my questions within a day, he would host review sessions for the midterm and final, and he is without a doubt, the best professor at explaining complicated topics. He's very knowledgeable about the course and if you were to give him a question you are stuck on, he'll definitely be able to explain where and why you're stuck. | | Personal Opinion | CS341 was one of my favorite courses at NJIT too. I liked learning about these different types of machine and the logic behind it. The logic and theory was fun to work with and the lecture notes made it very easy to understand. | | Usefulness | If it weren't for a recent experience, I would've had the same comments as CS 241, but I recently just made a state machine diagram for my company (which they thought was really helpful and was impressed that I knew how to do) lol. Other than this recent state machine diagram, I haven't used any of the theory in practice. | |Study Tips| For the online class, listening to lectures at 1.5x or 2.0 speed really helps. Might be a little fast at first but he speaks really slowly in the online lecture, and most of them are 30 minutes long. |
+Study Tips: Practice the homework. Exams are very similar to homework problems.Junior Year — Fall 2017CS241 — Foundations of Computer Science I
 
+Professor: Adrian Ionescu
 
-| CS491 | Senior Project | | ------ | ------ | | Professor | Osama Eljabiri | | Difficulty | ★☆☆☆☆ | | Notes on Professor | Osama is the most passionate professor I've met at NJIT. He really wants to push students to get their foot in the door with these sponsored projects and he encourages you to put the experience you had on your resume. He's a great person and although most of the course is handled by his e-team, he'd always be willing to help you out. | | Personal Opinion | I had a joke of a sponsor that didn't give me work until we were 75% through the semester. I had almost nothing to present during the midterm except wire frames/concepts of what I was supposed to be doing. Once the last 25% of the course came around, however, we had to create a whole website for the sponsor with some financial functionality. Many other kids in the same course was struggling because the projects they were given literally couldn't be completed within the time frame and ended up getting bad scores. Even though my project was easy, I know a lot of people struggled to get their project to even run so take this with a grain of salt. | Usefulness | meh. didn't learn anything of note |
+Difficulty: 3/5
 
-Spring 2019
-| CS301 | Data Science | | ------ | ------ | | Professor | Senjuti Roy | | Difficulty | ★★★★☆ | | Notes on Professor | I took this professor when she taught it for the first time to undergraduate students. She thinks that we are graduate students and would often skip over things that are pretty complicated without explaining her steps. This is supposed to be an introductory course and I personally think she did a bad job explaining things, but people that I've spoken to with some data science knowledge said she was a great professor. | | Personal Opinion | Senjuti made it really difficult to enjoy data science. I followed a kaggle tutorial on some basic data science models and how to implement them and I found those to be really fun, but she dives really deep into the theory of data science. Although I understand that going in-depth for a lecture is a good thing, I don't think spending 2 months reviewing statistics is a good idea especially because stats is a pre-req for the course and it's just wasting our time reviewing things we already know. (She did go over the naive bayes theorem which wasn't gone over in the dedicated stats class, so that's good.) Also, at the end of the semester she told us to go over her 10 PowerPoints slides that had over 100 slides in each one of them which was pretty yikes. I did my own method of studying and ended up with a grade I liked. Overall, her lectures don't really prepare you for her tests and she leaves you really clueless on what to do on the homework. She lets her TA do most of the homework management and generally doesn't even know what the homework was about. | | Usefulness | I haven't used any Data Science in practice yet, but I'm sure I will eventually with the way things are going. |
+Notes on Professor: Ionescu's teaching style was not effective for many students. He would write a complex problem on the board, wait briefly for student input, then solve it quickly without explanation. Questions were often redirected back to the textbook without elaboration.
 
-Random thoughts and stuff that I don't know where to put:
-Cool links n stuff
-Tech interview cheat sheet
-NJIT Discords megathread
-Leetcode
+Personal Opinion: Most of this course required self-teaching. Only one topic from CS241 transferred directly to the follow-up course CS341.
 
-When I worked for a large company as a co-op, one of my mentors was a NJIT Computer Science alumni. I talked to him about what he felt the overall experience was like at NJIT and he said, "NJIT has taught me how to be resourceful and made me think outside the box. Although you won't be using everything you've learned in your programming courses, you will understand how to approach problems and break them down into smaller, more manageable parts. This is the most important thing you can gain from any Computer Science degree." After finishing college, I couldn't agree more. As more and more programming languages become obsolete, it really is more important to learn how to adapt to a new language by applying things you already know. It's more important to understand the basics of Computer Science and build on top of that.
+Usefulness: The concepts are understandable but rarely applied directly in professional practice.CS288 — Intensive Programming in Linux
 
-Some general career advice that I can give you is : Pay attention to the CS 114 lecture and do leetcode before and while you are applying for your internship/co-op/first job.
+Professor: Andrew Sohn
 
-You should be applying for internships and co-ops as soon as possible. Probably after you take CS114 because you'll have the knowledge to pass the interviews. I managed to graduate with 1 internship, 1 co-op and a few personal projects I worked on in the meantime. Once you get to your senior year, you should start applying to full-time jobs right away. The interview process sometimes can take up-to 2-3 months and if you want to secure a job before graduation, you should definitely take early action. What I did was take an hour just before I sleep just apply to jobs on LinkedIn, Indeed, Monster, Handshake, and other sites.
+Difficulty: 4/5
 
-If you're like me and weren't able to secure a job before graduation, you shouldn't panic. I didn't follow my own advice that I had in the previous comment and I started seriously applying to jobs in March. Two of the jobs I applied to in early May came back to me in June. After the interviews, they gave me offers a week after.
+Notes on Professor: Sohn is an excellent professor despite his reputation. His live coding lectures were highly effective — he would present sample code with missing lines and ask the class to fill them in, making sessions very interactive.
 
-For every course, it's generally a good idea to get the material that was done from previous courses and then use that to study off of. A lot of your exams will be similar to previous exams. This goes for all courses at NJIT.
+Personal Opinion: CS288 reinforced programming knowledge and gave a deeper understanding of Linux through practical assignments.
 
-Do not spend thousands of dollars on a "gaming PC" with epic 2090938108TI GTX FTW SC GAMUR P E R F O R M A N C E ed1id1on. All you need is a nice mid-range, $500 to $1000, laptop that can handle basic programs. I went through the first 3 years of my college career using a laptop that had 4 GBs of ram, a pentium 4 and with 250 GB of space. I was able to manage this garbage laptop because I have a gaming desktop at home and didn't feel a lack of performance. I used the laptop for note taking on linux (linux made the experience much nicer for obvious reasons), and light programming. If you plan on dorming and you're not bringing a beefy desktop, then I would recommend a gaming laptop.
+Usefulness: Linux skills from this course are directly applicable in professional settings. Regex and grep in particular are extremely useful tools worth spending extra time learning.
 
-Speaking of laptops, you should also consider dual booting or installing a linux distro on your laptop full-time. It's best to get familiar with linux sooner rather than later. When I took CS288, I didn't have too much linux experience prior to taking the course. What I did in order to learn the material and also understand linux more, was I installed Linux on my laptop. No dual booting. This forced myself to get comfortable with the OS and within a week or so of general desktop use, I was able to use it efficiently. Along with that, I also dual booted my PC at home with Windows and Fedora. The way I utilized these operating systems is by using Windows for playing games and random stuff, and Linux for productivity. I found it really nice to have the dual boot on my desktop, and whenever I felt like doing homework, even for a course that isn't CS, I would always switch over to Linux to do it. That way, I can remove the convenience of firing up a game and end up not being productive.
+Study Tips: Do the homework from scratch on your own and you will be well prepared.Junior Year — Spring 2018CS490 — Guided Design in Software Engineering
 
-NJIT has OCI's, On Campus Interviews, which can be found on handshake. Really good opportunities to get an internship or a co-op.
+Professor: Theodore Nicholson
 
-Another thing that NJIT CDS offers is reserved interview rooms, which can be found here. Basically, if you go to the link and click on "Reserve an Interview Room" you can schedule a time to do just that. Use it when you have to do a phone or skype interview and they'll provide you with a room within the times you specify. This is really nice because you won't have to wander around the campus to find an empty room that could potentially have a class in it in 30 minutes.
+Difficulty: 4/5
 
-The library and random rooms in FMH are great places to study and get shit done. Just be prepared to move if you are in FMH because there may be a class incoming.
+Notes on Professor: Nicholson gives students a realistic taste of working in a professional team environment with people of varying skill sets.
 
-Rush hour around NJIT is really bad around 8-9 and picks back up around 4-5. Parking can be difficult around 11:30-12:30 and usually gets better around 2. The parking situation has changed a bit, I feel like it's easier to find parking in the new deck at high volume times. I've only observed a better parking situation on my last semester and I would arrive to school at around 12. But during every other semester, parking was a bitch which spawned this thread
+Personal Opinion: The experience varies heavily depending on your team. Some groups had members who did not contribute or dropped the course mid-project without notice. Taking this course with people you trust to get work done is strongly recommended. The professor will not intervene in team conflicts.
 
-Don't be afraid to go off campus to get food or drinks. You'll probably get scared by the emails about robberies on campus but more often than not, it's usually a person that's roaming around NJIT at 3 am with some beats on their head. If you're feeling really unsafe, just go in a group of 2 or 3 or ask a security guard to escort you. That being said, follow u/olajuwong's guide to food around NJIT
+Usefulness: Directly prepares you for real workplace dynamics — being assigned to a team you did not choose, managing tasks, and dealing with unequal contribution.
 
-"I would also like to mention the added benefit of doing research with professors. There are both paid and unpaid opportunities but it's a great experience to apply what you learn in class to some other fun areas you may not be familiar with." -u/meattbone
+Study Tips: There is a final exam. Nicholson will explicitly state what will be on it — write everything down. Complete the project as early as possible to allow time for debugging.CS431 — Database System Design and Management
 
-"We also have BS/MS for those looking to finish a Master's degree and get it over with, and in combination with the M.S. Data Science this is a great opportunity for CS students." -u/meattbone
+Professor: Ananya Dass
 
-Don't be this guy in the parking deck
+Difficulty: 2/5
 
-A wise man one said, "You haven't really graduated from NJIT until you've taken a Libby course"
+Notes on Professor: Dass is a kind and thorough professor who goes into detail on complex topics and reviews practice tests carefully with the class.
 
-Fuck snow at NJIT, fuck construction and fuck you Nissim Towfik
+Personal Opinion: Pay close attention — the SQL queries covered are detailed and complex, often over 400 characters long with full breakdowns.
 
-Please use deodorant
+Usefulness: SQL knowledge is tested in job interviews. W3Schools covers this course material very well and is a great study resource.
 
-People say NJIT is a really depressing campus and you won't find a social life. I completely disagree. The campus is being improved upon everyday and there is (obviously) a lot of construction going on. I don't remember a time where I felt regret in my decision to go to NJIT. There are so many people here with similar personalities to you and you will find groups of people that you can hang out with and also study with. There are so many people here with similar career goals, interests and hobbies as you and I think it would be impossible for you to not find a friend. Overall, I wouldn't say it's a depressing campus because they are clearly working on it. And if you want to make friends, don't go on Reddit and make a thread complaining about how no one talks to you. You should go out there and find a club with similar interests to you or study with a group of people within your class.
+Study Tips: Use W3Schools — its table of contents maps closely to lecture topics.CS356 — Intro to Computer Networks
 
+Professor: Susan Thomson
 
-Shout-out to ACM for helping me acquire a social life at NJIT : NJIT ACM Discord
+Difficulty: 3/5
 
-Shameless plug : come join my server (sorry Evan) : NJIT Community
+Notes on Professor: Thomson is one of the best professors at NJIT. She explained networking topics clearly with strong visual diagrams and welcomed questions beyond the course scope.
 
-And also come join this if you need help with anything CS : NJIT YWCC Discord
+Personal Opinion: One of the most enjoyable courses. Thomson made complex topics accessible and her lectures made it easy to do well.
 
-Also I will not give you my homework or exams, please do not PM me. :)
+Usefulness: Basic socket programming knowledge from this course is directly applicable in professional settings.
+
+Study Tips: Exams closely mirror homework. Complete the homework carefully and you will be well prepared.Senior Year — Fall 2018CS435 — Advanced Data Structures and Algorithm Design
+
+Professor: Alexandros Gerbessiotis
+
+Difficulty: 4/5
+
+Notes on Professor: The course material is very important but the professor's teaching style is difficult — monotone delivery and long pauses waiting for student responses. However, his lecture notes are excellent and contain everything needed for the exam.
+
+Personal Opinion: Do not skip the lecture notes — they cover the exam material thoroughly. The textbook is allowed in exams but is not useful unless you already know the material. The mini project is interesting but time-consuming.
+
+Usefulness: This course teaches how to analyze time and space complexity, which directly leads to writing more efficient code professionally.CS341 — Foundations of Computer Science II
+
+Professor: Marvin Nakayama
+
+Difficulty: 2/5
+
+Notes on Professor: Nakayama is an outstanding professor — responds to questions quickly, hosts review sessions, and explains complex topics clearly and patiently.
+
+Personal Opinion: One of the most enjoyable courses. The logic and theory behind state machines and computation is interesting and well-taught.
+
+Usefulness: State machine diagrams from this course have been directly useful in professional settings.
+
+Study Tips: For the online version, listening at 1.5x or 2.0x speed is recommended — lectures are long and slowly paced.CS491 — Senior Project
+
+Professor: Osama Eljabiri
+
+Difficulty: 1/5
+
+Notes on Professor: Eljabiri is a passionate professor who genuinely wants students to succeed and encourages them to put their project experience on their resume.
+
+Personal Opinion: Experience varies heavily by sponsor. Some students had sponsors who did not provide meaningful work until late in the semester. Other groups had projects that could not realistically be completed in the time given. Results depend significantly on your assigned sponsor.
+
+Usefulness: Limited learning value, but the resume experience is worthwhile.Senior Year — Spring 2019CS301 — Data Science
+
+Professor: Senjuti Roy
+
+Difficulty: 4/5
+
+Notes on Professor: Roy teaches this introductory course at a graduate level, often skipping over steps without explanation. Students with prior data science knowledge found her to be a strong professor; those without found the course difficult to follow.
+
+Personal Opinion: The course spent too much time reviewing statistics that were already covered in the prerequisite course. Lecture material did not always align with homework or exams. Independent study was necessary to fill in the gaps.
+
+Usefulness: Data science skills are increasingly relevant in the industry, even if not yet applied directly after graduation.General Advice for CS Students at NJITCareer advice:
+
+CS114 is the most important course for job interviews — pay close attention and practice LeetCode/HackerRank problems, focusing on Medium difficulty
+Apply for internships and co-ops as early as possible, ideally after CS114
+NJIT offers On Campus Interviews (OCIs) through Handshake — check regularly
+NJIT Career Development Services offers reservable interview rooms for phone or video interviews
+Start applying for full-time jobs in your senior year — the interview process can take 2–3 months
+Apply on LinkedIn, Indeed, Monster, and Handshake simultaneously
+Academic advice:
+
+For every course, review material and past exams from previous semesters — exams are often very similar year to year
+The library and rooms in FMH are good study spots; be aware that FMH rooms may have scheduled classes
+Do not spend a large amount of money on a high-end laptop — a mid-range $500–$1000 laptop is sufficient for most CS coursework
+Consider installing Linux on your laptop or dual-booting — getting comfortable with Linux early is strongly recommended, especially before CS288
+Campus life:
+
+Rush hour traffic near NJIT is heavy around 8–9am and 4–5pm; parking is most difficult between 11:30am–12:30pm and usually improves around 2pm
+It is generally safe to go off campus for food during the day; go in a group at night or ask campus security for an escort
+Research opportunities with professors exist in both paid and unpaid forms — great for resume building
+NJIT offers a BS/MS combined program for students interested in completing a Master's degree
+NJIT has a strong community of students with similar interests — joining clubs like ACM is a great way to build a social life and make connections
